@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'loader.scss';
+
+body {
+  background-image: url("/images/reactRedux.png");
+  background-color: rgb(241, 241, 241);
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
